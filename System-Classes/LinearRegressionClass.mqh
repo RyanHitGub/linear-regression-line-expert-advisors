@@ -1,8 +1,8 @@
 //+------------------------------------------------------------------+
 //|                                        LinearRegressionClass.mqh |
-//|                                   Copyright 2020, Dave Hawthorne |
+//|                                       Copyright 2020, Ryan Smith |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2020, Dave Hawthorne"
+#property copyright "Copyright 2020, Ryan Smith"
 #property version   "1.00"
 #property description "LinearRegressionClass"
 
